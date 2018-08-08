@@ -31,7 +31,7 @@ function startCursorLoc()
                 if(addElemGraphViz==true)trackDrawGraph()
                 if(addElemChartViz==true)trackDrawChart()
                if(ZoomDrawing==true)trackZoom()
-              //---tessellate if(TrimBox==true)trackDrawTrimBox()
+              if(TrimBox==true)trackDrawTrimBox()
 
         }
     );

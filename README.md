@@ -1,6 +1,8 @@
 # SVG-Biology
 Windows 10 Stand-Alone Application: Create SVG Biology Drawings
 
+![](http://svg-biology.com/Images/moleculeShadow.svg)
+
 **Dowload ZIP** folder, then create a new site under inetpub/wwwroot on your computer.
 
 Place unzipped files into that site's folder.
